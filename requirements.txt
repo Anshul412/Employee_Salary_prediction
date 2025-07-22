@@ -1,22 +1,5 @@
-
-## Usage
-- Load and preprocess the dataset.
-- Train machine learning models using the provided Jupyter notebook.
-- Evaluate model performance based on accuracy metrics.
-- Make salary predictions on new data.
-
-## Notebook
-The main analysis and model development are contained in `employee-salary-prediction.ipynb`.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-*This README is generated based on the employee salary prediction project details.*  
-
-
-[1]: employee-salary-prediction.ipynb (for detailed exploration and results)
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
